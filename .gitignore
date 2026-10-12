@@ -1,5 +1,30 @@
-# Object file
-*.o
+# Files and folders Git should NOT track.
+# Rename this file to .gitignore (see the lab sheet).
 
-# Ada Library Information
-*.ali
+# Secrets: never commit these
+.env
+*.key
+*.pem
+secrets.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# Build output and logs
+dist/
+build/
+*.log
