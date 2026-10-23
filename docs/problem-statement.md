@@ -17,11 +17,15 @@ Main users: Individuals needing assistance with managing their clothing collecti
 Other stakeholders: Course evaluators, project assessors, and myself as the developer.
 
 ## Scope
-Listing wardrobe items categorized by clothing type, color, and occasion.   
+Listing wardrobe items categorized by clothing type, color, and occasion. 
+
 Filtering clothing items by category and style.   
+
 Planning and scheduling daily outfit combinations.   
 
 ## Out of scope
 Direct online shopping or buying clothes through external stores.
+
 Assigning personal stylists or professional fashion consultants to users.
+
 Logging in or storing user banking and payment data.
