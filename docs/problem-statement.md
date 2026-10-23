@@ -14,6 +14,7 @@ Busy professionals and daily commuters frequently suffer from decision fatigue a
 
 ## Users & Stakeholder?
 Main users: Individuals needing assistance with managing their clothing collection and planning daily outfits.
+
 Other stakeholders: Course evaluators, project assessors, and myself as the developer.
 
 ## Scope
