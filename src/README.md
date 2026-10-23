@@ -37,4 +37,4 @@
 Sprint 1 completed (CSC649, Week 3)
 
 ## Author
-[Your Name]
+AHMAD IZAHAN AZMAN CDCS2305C UITM SHAH ALAM
