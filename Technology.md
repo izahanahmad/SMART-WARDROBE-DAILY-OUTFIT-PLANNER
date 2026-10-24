@@ -35,8 +35,8 @@ Rather than treating an image as a simple matrix of raw pixels, Computer Vision 
 ### Type: Computer Vision & Image Processing Tool/Library.
 ### Usage in Project: Used for image preprocessing tasks such as cropping background noise, resizing user-uploaded wardrobe photos, and performing color extraction using HSV color ranges.
 
-### PyTorch / TensorFlow:
-### : Deep Learning Framework.
+## PyTorch / TensorFlow:
+### Deep Learning Framework.
 ### Usage in Project: Used to host, fine-tune, and run custom convolutional neural network (CNN) classifier models trained on fashion datasets (e.g., Fashion-MNIST or DeepFashion) to accurately identify style attributes and garment types.
 
 ## C3 Fit to Your Problem
